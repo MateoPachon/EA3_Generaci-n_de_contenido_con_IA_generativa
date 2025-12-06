@@ -3,6 +3,7 @@ Este repositorio contiene el notebook de Google Colab para la experimentación d
 
 
 Guía de Usuario - Aplicación Gradio
+
 Esta guía explica cómo interactuar con el modelo de generación de texto a través del enlace público de Gradio.
 
 Requisitos
